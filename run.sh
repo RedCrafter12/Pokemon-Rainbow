@@ -1,0 +1,2 @@
+./update.sh
+./gradlew run
